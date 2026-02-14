@@ -1,0 +1,7 @@
+{
+  "name": "Treasure's Ludo",
+  "description": "An online multiplayer Ludo game with real-time voice chat, inviting friends, and creator-controlled lobbies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
